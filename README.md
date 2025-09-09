@@ -7,7 +7,6 @@
 ## Hi, I'm jungwon!
 
 ### <img src="https://github.com/user-attachments/assets/18221814-3ee3-4b6d-a98c-f9110243df12" width="20" /> I have experience in
-Department of Computer Science, Hanyang University `2022.03 ~`  
 AI Engineer Internship, GenON `2024.12 ~ 2025.06`  
 AI Engineer Internship, Naver Cloud `2025.07 ~ `
 
